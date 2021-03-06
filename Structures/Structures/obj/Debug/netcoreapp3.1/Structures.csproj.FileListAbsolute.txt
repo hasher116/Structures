@@ -1,0 +1,13 @@
+E:\Projects\C# console\Structures\Structures\Structures\bin\Debug\netcoreapp3.1\Structures.exe
+E:\Projects\C# console\Structures\Structures\Structures\bin\Debug\netcoreapp3.1\Structures.deps.json
+E:\Projects\C# console\Structures\Structures\Structures\bin\Debug\netcoreapp3.1\Structures.runtimeconfig.json
+E:\Projects\C# console\Structures\Structures\Structures\bin\Debug\netcoreapp3.1\Structures.runtimeconfig.dev.json
+E:\Projects\C# console\Structures\Structures\Structures\bin\Debug\netcoreapp3.1\Structures.dll
+E:\Projects\C# console\Structures\Structures\Structures\bin\Debug\netcoreapp3.1\Structures.pdb
+E:\Projects\C# console\Structures\Structures\Structures\obj\Debug\netcoreapp3.1\Structures.csprojAssemblyReference.cache
+E:\Projects\C# console\Structures\Structures\Structures\obj\Debug\netcoreapp3.1\Structures.AssemblyInfoInputs.cache
+E:\Projects\C# console\Structures\Structures\Structures\obj\Debug\netcoreapp3.1\Structures.AssemblyInfo.cs
+E:\Projects\C# console\Structures\Structures\Structures\obj\Debug\netcoreapp3.1\Structures.csproj.CoreCompileInputs.cache
+E:\Projects\C# console\Structures\Structures\Structures\obj\Debug\netcoreapp3.1\Structures.dll
+E:\Projects\C# console\Structures\Structures\Structures\obj\Debug\netcoreapp3.1\Structures.pdb
+E:\Projects\C# console\Structures\Structures\Structures\obj\Debug\netcoreapp3.1\Structures.genruntimeconfig.cache
